@@ -1,0 +1,1 @@
+{"splitter": "random", "min_samples_split": 16, "min_samples_leaf": 29, "max_depth": 11, "criterion": "entropy", "class_weight": "balanced"}
