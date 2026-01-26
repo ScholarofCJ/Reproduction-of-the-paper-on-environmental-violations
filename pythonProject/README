@@ -1,16 +1,13 @@
-1. 先用合并数据把所有数据都合并到一块得到最终用于建模的数据集“Data完整.xlsx”。
-
-2.训练十类模型包括线性和非线性用于下边对比分析
-
-3.用 挑选最优模型.py  这个代码挑选出环境违规表现最好的模型
-
-4.用 分析：变量非线性.py  和 分析：维度重要性.py  这两个代码展开分析
-
-5.用异质性：产权.py  和 异质性：行业.py  这两个代码展开异质性分析训练模型  然后用 异质性绘图.py  来绘图
-
-
+Training the random forest model and performing the corresponding SHAP interpretation require considerable time. Please be patient.
 1. Run Figure1.py to generate Figure 1.
 2. Run Figure2.py to generate Figure 2.
 3. Run adaboost.py, DT.py, NB.py, LDA.py, logistic.py, lgbm.py, MLP.py, SVM.py, RF.py xgb.py to train the 10 models.  部分模型训练时间较长请耐心等待
 4. Run Table1.py to generate Table 1.
-5.
+5. Run Table2andFigure3.py to generate Table 2 and Figure 3.
+6. Run Figure4.py to generate Figure 4.
+7. Run Figure5.py to generate Figure 5.
+8. Run Figure6-9.py to generate Figures 6-9.
+9. Run Heterogeneity_ind.py and Heterogeneity_owner.py to train heterogeneity model.
+10. Run Figure10--13.py to generate Figures 10-13.
+
+
