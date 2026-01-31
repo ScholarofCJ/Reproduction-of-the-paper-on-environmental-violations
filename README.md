@@ -10,5 +10,7 @@ Training the random forest model and performing the corresponding SHAP interpret
 9. Run Heterogeneity_ind.py and Heterogeneity_owner.py to train heterogeneity model.
 10. Run Figure10--13.py to generate Figures 10-13.
 
-
+The shap version is 0.42.1  shap==0.42.1 
+The lightgbm version is 4.5.0 lightgbm==4.5.0
+The python version is 3.11.7   python==3.11.7
 Feel free to contact me, if you have any problems during the reproduction process.
